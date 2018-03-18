@@ -107,7 +107,7 @@ public class NewJFrame extends javax.swing.JFrame {
 int Num1= Integer.parseInt(n1.getText());
 int Num2= Integer.parseInt(n2.getText());
 int T=Num1+Num2;
-total.setText(""+T);
+total.setText("total is "+T);
 
 
 
